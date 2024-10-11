@@ -24,7 +24,7 @@ export default function Home() {
             <p className="font-bold text-8xl mb-4 text-black">
               <span>{isMounted ? <FlipWords words={words} /> : words[0]}</span>
             </p>
-            <p className="font-bold text-2xl mb-2 text-black">Sounds familiar?</p>
+            <p className="font-bold text-2xl mb-2 text-black">Sounds Familiar?</p>
             <p className="text-lg text-black">
               These are some of the most commonly abused drugs in Singapore
             </p>
